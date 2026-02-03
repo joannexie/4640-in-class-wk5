@@ -3,3 +3,4 @@ Allison Chen & Joanne Xie
 
 ### HTML document being served by a running instance of AMI
 ![HTML document](/wk5.png)
+![HTML document](/allison.png)
